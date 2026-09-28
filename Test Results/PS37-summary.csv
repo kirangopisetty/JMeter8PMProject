@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Transaction Controller,50,2316,2257,2581,62.66,0.000%,4.05482,124.29,17.24,31387.0
+TOTAL,50,2316,2257,2581,62.66,0.000%,4.05482,124.29,17.24,31387.0

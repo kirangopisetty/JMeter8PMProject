@@ -1,0 +1,12 @@
+varUN,varPWD,varAcct,varStartDate,varEndDate,varFromAcct,varToAcct,varTransferAmt,varName,varEmail,varSubject,varMessage
+jsmith,demo1234,800002,2026-09-01,2026-09-26,800002,800016,1,Rajini,rajini@gmail.com,Hi,Transfer funds is easy
+jsmith,demo1234,800003,2026-09-02,2026-09-26,800003,800017,2,Karnati,karnati@yahoo.com,Hello,Bank UI is good
+jsmith,demo1234,800011,2026-09-04,2026-09-26,800011,800019,4,Trainer,trainer@gmail.com,Hello,Login is taking time
+jsmith,demo1234,800013,2026-09-05,2026-09-26,800013,800020,5,Jmeter,jmeter@gmail.com,Hi,Home loan interest rate ?
+jsmith,demo1234,800014,2026-09-06,2026-09-26,800014,800021,6,Ram,ram@gmail.com,Hello,Do you give personal loans?
+jsmith,demo1234,800015,2026-09-07,2026-09-26,800015,800002,7,Ganesha,ganesh@ibm.com,Hi,Transfer funds is easy
+jsmith,demo1234,800016,2026-09-08,2026-09-26,800016,800003,8,Apple,apple@fruit.com,Hello,Bank UI is good
+jsmith,demo1234,800018,2026-09-10,2026-09-26,800018,800011,10,Orange,orange@fruit.com,Hello,Login is taking time
+jsmith,demo1234,800019,2026-09-11,2026-09-26,800019,800013,11,Grapes,grapes@fruit.com,Hi,Home loan interest rate ?
+jsmith,demo1234,800020,2026-09-12,2026-09-26,800020,800014,12,Brinjal,brinjal@veg.com,Hello,Do you give personal loans?
+jsmith,demo1234,800021,2026-09-13,2026-09-26,800021,800015,13,Spinach,spinach@veg.com,Hi,Bank UI is good

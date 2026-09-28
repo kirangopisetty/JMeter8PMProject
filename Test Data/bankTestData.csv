@@ -1,0 +1,6 @@
+varUN,varPWD,varFromAcct,varToAcct,varTransferAmt
+jsmith,demo1234,800002,800003,5
+jsmith,demo1234,800003,800011,10
+jsmith,demo1234,800011,800014,15
+jsmith,demo1234,800014,800015,20
+jsmith,demo1234,800015,800002,26

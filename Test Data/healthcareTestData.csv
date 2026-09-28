@@ -1,0 +1,11 @@
+varUN,varPWD,varAdmission,varComment,varProgram,varFacility,varVisitDate
+John Doe,ThisIsNotAPassword,Yes,Cough,Medicare,Hongkong CURA Healthcare Center,20/09/2026
+John Doe,ThisIsNotAPassword,No,Dental Checkup,Medicaid,Tokyo CURA Healthcare Center,21/09/2026
+John Doe,ThisIsNotAPassword,Yes,Scanning,None,Seoul CURA Healthcare Center,22/09/2026
+John Doe,ThisIsNotAPassword,No,Vaccination,Medicare,Hongkong CURA Healthcare Center,23/09/2026
+John Doe,ThisIsNotAPassword,Yes,Marketing,Medicaid,Tokyo CURA Healthcare Center,24/09/2026
+John Doe,ThisIsNotAPassword,No,2nd opinion,None,Seoul CURA Healthcare Center,25/09/2026
+John Doe,ThisIsNotAPassword,Yes,Fever,Medicare,Hongkong CURA Healthcare Center,26/09/2026
+John Doe,ThisIsNotAPassword,No,Body pains,Medicaid,Tokyo CURA Healthcare Center,27/09/2026
+John Doe,ThisIsNotAPassword,Yes,2nd visit,None,Seoul CURA Healthcare Center,28/09/2026
+John Doe,ThisIsNotAPassword,No,Cold,Medicare,Hongkong CURA Healthcare Center,29/09/2026
