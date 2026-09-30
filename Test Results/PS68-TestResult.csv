@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1790783498846,663,Home Page,200,OK,Thread Group 1-1,text,true,,176165,118,1,1,https://mindmajix.com/,525,0,414
+1790783499511,146,Corporate Training Page,200,OK,Thread Group 1-1,text,true,,135562,136,1,1,https://mindmajix.com/corporate-training,96,0,0
+1790783499658,119,On Job Support Page,200,OK,Thread Group 1-1,text,true,,57841,132,1,1,https://mindmajix.com/on-job-support,109,0,0
+1790783499778,114,Blog Page,200,OK,Thread Group 1-1,text,true,,59637,122,1,1,https://mindmajix.com/blog,91,0,0
